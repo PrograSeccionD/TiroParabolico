@@ -1,0 +1,71 @@
+c:\users\coca_\onedrive\documents\visual studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.exe.config
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.exe
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.pdb
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.xml
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.vbprojResolveAssemblyReference.cache
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.Form1.resources
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.Resources.resources
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.vbproj.GenerateResource.Cache
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.exe
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.xml
+C:\Users\coca_\OneDrive\Documents\Visual Studio 2015\Projects\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.pdb
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.exe.config
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.exe
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.xml
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.pdb
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.exe
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.pdb
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.xml
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.vbprojResolveAssemblyReference.cache
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.Form1.resources
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.Resources.resources
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.vbproj.GenerateResource.Cache
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.exe.config
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.exe
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.xml
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.pdb
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.exe
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.pdb
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ProyectoGDA_FisicaI.xml
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.vbprojResolveAssemblyReference.cache
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.Form1.resources
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.Resources.resources
+C:\Users\coca_\Desktop\Nueva carpeta\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.vbproj.GenerateResource.Cache
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.Form2.resources
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\ogomez\Desktop\ProyectoGDA_FisicaI\ProyectoGDA_FisicaI\obj\Debug\ProyectoGDA_FisicaI.Form3.resources
