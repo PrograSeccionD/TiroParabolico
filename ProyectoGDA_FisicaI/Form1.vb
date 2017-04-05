@@ -140,9 +140,9 @@
         Dim LAPIZY As New Pen(Brushes.LightGreen, 6)
         Dim FUENTE As New Font("verdana", 8)
         ' Create image.
-        Dim arriba As Image = Image.FromFile("C:\Users\ogomez\Desktop\misil16+.png")
-        Dim abajo As Image = Image.FromFile("C:\Users\ogomez\Desktop\misil16-.png")
-        Dim tank As Image = Image.FromFile("C:\Users\ogomez\Desktop\tank24.png")
+        Dim arriba As Image = Image.FromFile("C:\Users\M I C I F U S\Documents\GitHub\TiroParabolico\ProyectoGDA_FisicaI\Resources\misil16+.png")
+        Dim abajo As Image = Image.FromFile("C:\Users\M I C I F U S\Documents\GitHub\TiroParabolico\ProyectoGDA_FisicaI\Resources\misil16-.png")
+        Dim tank As Image = Image.FromFile("C:\Users\M I C I F U S\Documents\GitHub\TiroParabolico\ProyectoGDA_FisicaI\Resources\tank24.png")
 
         Try
             'DEFINIMOS EL TRAMO A DIBUJAR EN FUNCION DE LAS DIMENSIONES DEL PICTUREBOX MENOS SUS MARGENES
@@ -190,5 +190,17 @@
     End Sub
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         Timer1.Start()
+    End Sub
+
+    Private Sub PictureBox1_MouseHover(sender As Object, e As EventArgs) Handles PictureBox1.MouseHover
+        PictureBox1.BackgroundImage = My.Resources.cross_circular_button_press
+    End Sub
+
+    Private Sub PictureBox1_MouseLeave(sender As Object, e As EventArgs) Handles PictureBox1.MouseLeave
+        PictureBox1.BackgroundImage = My.Resources.cross_circular_button
+    End Sub
+
+    Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
+        Me.Close()
     End Sub
 End Class
