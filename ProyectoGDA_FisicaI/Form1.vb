@@ -5,20 +5,18 @@
     Dim ListaY As New ArrayList ' DATOS DE Y EN FUNCION DEL TIEMPO
     Dim Contador As Integer = 0 ' CONTADOR DE PASO DE TIEMPO
     Dim posicionCohete As Integer = 0 'CONTADOR POSICION COHETE
-    'Dim myform2 As New Form2() 'ACCESO AL FORMULARIO 
-    'Dim myform3 As New Form3() 'ACCESO AL FORMULARIO
-    'Dim f2check1 As Boolean = myform2.CheckBox1.Checked 'OBTENER VALOR DE CHECK
-    'Dim f2check2 As Boolean = myform2.CheckBox1.Checked 'OBTENER VALOR DE CHECK
-    'Dim f2check3 As Boolean = myform2.CheckBox1.Checked 'OBTENER VALOR DE CHECK
-    'Dim f2check4 As Boolean = myform2.CheckBox1.Checked 'OBTENER VALOR DE CHECK
-    'Dim f2check5 As Boolean = myform2.CheckBox1.Checked 'OBTENER VALOR DE CHECK
-    'Dim f3check1 As Boolean = myform3.CheckBox1.Checked 'OBTENER VALOR DE CHECK
-    'Dim f3check2 As Boolean = myform3.CheckBox2.Checked 'OBTENER VALOR DE CHECK
-    'Dim f3check3 As Boolean = myform3.CheckBox3.Checked 'OBTENER VALOR DE CHECK
-    'Dim f3check4 As Boolean = myform3.CheckBox4.Checked 'OBTENER VALOR DE CHECK
-    'Dim f3check5 As Boolean = myform3.CheckBox5.Checked 'OBTENER VALOR DE CHECK
-    'Dim f3check6 As Boolean = myform3.CheckBox6.Checked 'OBTENER VALOR DE CHECK
-    'Dim f3check7 As Boolean = myform3.CheckBox7.Checked 'OBTENER VALOR DE CHECK
+    Dim f2check1 As Boolean = Module1.f2c1 'OBTENER VALOR DE CHECK
+    Dim f2check2 As Boolean = Module1.f2c2 'OBTENER VALOR DE CHECK
+    Dim f2check3 As Boolean = Module1.f2c3 'OBTENER VALOR DE CHECK
+    Dim f2check4 As Boolean = Module1.f2c4 'OBTENER VALOR DE CHECK
+    Dim f2check5 As Boolean = Module1.f2c5 'OBTENER VALOR DE CHECK
+    Dim f3check1 As Boolean = Module1.f3c1 'OBTENER VALOR DE CHECK
+    Dim f3check2 As Boolean = Module1.f3c2 'OBTENER VALOR DE CHECK
+    Dim f3check3 As Boolean = Module1.f3c3 'OBTENER VALOR DE CHECK
+    Dim f3check4 As Boolean = Module1.f3c4 'OBTENER VALOR DE CHECK
+    Dim f3check5 As Boolean = Module1.f3c5 'OBTENER VALOR DE CHECK
+    Dim f3check6 As Boolean = Module1.f3c6 'OBTENER VALOR DE CHECK
+    Dim f3check7 As Boolean = Module1.f3c7 'OBTENER VALOR DE CHECK
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         'HACE LOS CALCULOS Y PONE EN MARCHA EL TIMER
