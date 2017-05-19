@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form3
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Form3
     'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
     'Se puede modificar usando el Diseñador de Windows Forms.  
     'No lo modifique con el editor de código.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form3))
         Me.CheckBox1 = New System.Windows.Forms.CheckBox()
@@ -28,9 +28,8 @@ Partial Class Form3
         Me.CheckBox3 = New System.Windows.Forms.CheckBox()
         Me.CheckBox4 = New System.Windows.Forms.CheckBox()
         Me.CheckBox5 = New System.Windows.Forms.CheckBox()
-        Me.CheckBox6 = New System.Windows.Forms.CheckBox()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.CheckBox7 = New System.Windows.Forms.CheckBox()
+        Me.CheckBox6 = New System.Windows.Forms.CheckBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
@@ -79,11 +78,11 @@ Partial Class Form3
         Me.CheckBox4.BackColor = System.Drawing.Color.Transparent
         Me.CheckBox4.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckBox4.ForeColor = System.Drawing.Color.WhiteSmoke
-        Me.CheckBox4.Location = New System.Drawing.Point(44, 153)
+        Me.CheckBox4.Location = New System.Drawing.Point(44, 155)
         Me.CheckBox4.Name = "CheckBox4"
-        Me.CheckBox4.Size = New System.Drawing.Size(86, 25)
-        Me.CheckBox4.TabIndex = 3
-        Me.CheckBox4.Text = "Ángulo"
+        Me.CheckBox4.Size = New System.Drawing.Size(146, 25)
+        Me.CheckBox4.TabIndex = 4
+        Me.CheckBox4.Text = "Velocidad en X"
         Me.CheckBox4.UseVisualStyleBackColor = False
         '
         'CheckBox5
@@ -92,25 +91,12 @@ Partial Class Form3
         Me.CheckBox5.BackColor = System.Drawing.Color.Transparent
         Me.CheckBox5.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckBox5.ForeColor = System.Drawing.Color.WhiteSmoke
-        Me.CheckBox5.Location = New System.Drawing.Point(44, 176)
+        Me.CheckBox5.Location = New System.Drawing.Point(44, 181)
         Me.CheckBox5.Name = "CheckBox5"
-        Me.CheckBox5.Size = New System.Drawing.Size(146, 25)
-        Me.CheckBox5.TabIndex = 4
-        Me.CheckBox5.Text = "Velocidad en X"
+        Me.CheckBox5.Size = New System.Drawing.Size(148, 25)
+        Me.CheckBox5.TabIndex = 5
+        Me.CheckBox5.Text = "Velocidad en Y"
         Me.CheckBox5.UseVisualStyleBackColor = False
-        '
-        'CheckBox6
-        '
-        Me.CheckBox6.AutoSize = True
-        Me.CheckBox6.BackColor = System.Drawing.Color.Transparent
-        Me.CheckBox6.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CheckBox6.ForeColor = System.Drawing.Color.WhiteSmoke
-        Me.CheckBox6.Location = New System.Drawing.Point(44, 199)
-        Me.CheckBox6.Name = "CheckBox6"
-        Me.CheckBox6.Size = New System.Drawing.Size(148, 25)
-        Me.CheckBox6.TabIndex = 5
-        Me.CheckBox6.Text = "Velocidad en Y"
-        Me.CheckBox6.UseVisualStyleBackColor = False
         '
         'Label1
         '
@@ -124,25 +110,25 @@ Partial Class Form3
         Me.Label1.TabIndex = 6
         Me.Label1.Text = "¿QUÉ DESEA SABER?"
         '
-        'CheckBox7
+        'CheckBox6
         '
-        Me.CheckBox7.AutoSize = True
-        Me.CheckBox7.BackColor = System.Drawing.Color.Transparent
-        Me.CheckBox7.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.CheckBox7.ForeColor = System.Drawing.Color.WhiteSmoke
-        Me.CheckBox7.Location = New System.Drawing.Point(44, 222)
-        Me.CheckBox7.Name = "CheckBox7"
-        Me.CheckBox7.Size = New System.Drawing.Size(129, 25)
-        Me.CheckBox7.TabIndex = 7
-        Me.CheckBox7.Text = "Tiempo Total"
-        Me.CheckBox7.UseVisualStyleBackColor = False
+        Me.CheckBox6.AutoSize = True
+        Me.CheckBox6.BackColor = System.Drawing.Color.Transparent
+        Me.CheckBox6.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CheckBox6.ForeColor = System.Drawing.Color.WhiteSmoke
+        Me.CheckBox6.Location = New System.Drawing.Point(44, 207)
+        Me.CheckBox6.Name = "CheckBox6"
+        Me.CheckBox6.Size = New System.Drawing.Size(129, 25)
+        Me.CheckBox6.TabIndex = 7
+        Me.CheckBox6.Text = "Tiempo Total"
+        Me.CheckBox6.UseVisualStyleBackColor = False
         '
         'Button1
         '
         Me.Button1.BackColor = System.Drawing.Color.RosyBrown
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.Button1.Font = New System.Drawing.Font("Century Gothic", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(105, 258)
+        Me.Button1.Location = New System.Drawing.Point(105, 270)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(108, 33)
         Me.Button1.TabIndex = 8
@@ -157,9 +143,8 @@ Partial Class Form3
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.ClientSize = New System.Drawing.Size(325, 325)
         Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.CheckBox7)
-        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.CheckBox6)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.CheckBox5)
         Me.Controls.Add(Me.CheckBox4)
         Me.Controls.Add(Me.CheckBox3)
@@ -180,8 +165,7 @@ Partial Class Form3
     Friend WithEvents CheckBox3 As CheckBox
     Friend WithEvents CheckBox4 As CheckBox
     Friend WithEvents CheckBox5 As CheckBox
-    Friend WithEvents CheckBox6 As CheckBox
     Friend WithEvents Label1 As Label
-    Friend WithEvents CheckBox7 As CheckBox
+    Friend WithEvents CheckBox6 As CheckBox
     Friend WithEvents Button1 As Button
 End Class

@@ -5,9 +5,6 @@
             Label3.Text = "Cargando " & ProgressBar1.Value & "%"
         Else
             Timer1.Enabled = False
-            Dim f2 As New Form2
-            f2.Show()
-            Me.Hide()
         End If
     End Sub
 
