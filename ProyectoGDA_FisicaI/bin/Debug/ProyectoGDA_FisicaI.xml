@@ -82,5 +82,25 @@ ProyectoGDA_FisicaI
   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:ProyectoGDA_FisicaI.My.Resources.Resources.t1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectoGDA_FisicaI.My.Resources.Resources.t2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectoGDA_FisicaI.My.Resources.Resources.t3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectoGDA_FisicaI.My.Resources.Resources.t4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>

@@ -64,6 +64,7 @@ Partial Class Form1
         Me.NavBarItem6 = New DevExpress.XtraNavBar.NavBarItem()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
+        Me.Button5 = New System.Windows.Forms.Button()
         CType(Me.Grafica, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.NavBarControl1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -377,7 +378,7 @@ Partial Class Form1
         Me.NavBarControl1.Location = New System.Drawing.Point(694, 118)
         Me.NavBarControl1.Name = "NavBarControl1"
         Me.NavBarControl1.OptionsNavPane.ExpandedWidth = 213
-        Me.NavBarControl1.Size = New System.Drawing.Size(213, 326)
+        Me.NavBarControl1.Size = New System.Drawing.Size(213, 271)
         Me.NavBarControl1.TabIndex = 66
         Me.NavBarControl1.Text = "NavBarControl1"
         '
@@ -474,6 +475,18 @@ Partial Class Form1
         Me.PictureBox2.TabIndex = 68
         Me.PictureBox2.TabStop = False
         '
+        'Button5
+        '
+        Me.Button5.BackColor = System.Drawing.Color.YellowGreen
+        Me.Button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup
+        Me.Button5.Font = New System.Drawing.Font("Century Gothic", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button5.Location = New System.Drawing.Point(694, 412)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(213, 32)
+        Me.Button5.TabIndex = 70
+        Me.Button5.Text = "INICIAR EJERCICIOS"
+        Me.Button5.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -482,6 +495,7 @@ Partial Class Form1
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(922, 465)
+        Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.NavBarControl1)
@@ -562,4 +576,5 @@ Partial Class Form1
     Friend WithEvents NavBarItem6 As DevExpress.XtraNavBar.NavBarItem
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents NavBarItem7 As DevExpress.XtraNavBar.NavBarItem
+    Friend WithEvents Button5 As Button
 End Class

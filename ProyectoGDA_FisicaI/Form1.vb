@@ -25,6 +25,7 @@
         Timer1.Interval = 500
         Timer1.Enabled = True
         NavBarControl1.Enabled = True
+        Button5.Enabled = True
     End Sub
     Public Sub Calculos()
         'LIMPIA LOS ARRAYS Y EL CONTADOR POR SI SE HACEN VARIOS CALCULOS SIN REINICIAR LA APLICACION
@@ -197,9 +198,9 @@
         Dim LAPIZY As New Pen(Brushes.LightGreen, 6)
         Dim FUENTE As New Font("verdana", 8)
         ' Create image.
-        Dim arriba As Image = Image.FromFile("C:\Users\coca_\Desktop\tiro\TiroParabolico\ProyectoGDA_FisicaI\Resources\misil16+.png")
-        Dim abajo As Image = Image.FromFile("C:\Users\coca_\Desktop\tiro\TiroParabolico\ProyectoGDA_FisicaI\Resources\misil16-.png")
-        Dim tank As Image = Image.FromFile("C:\Users\coca_\Desktop\tiro\TiroParabolico\ProyectoGDA_FisicaI\Resources\tank24.png")
+        Dim arriba As Image = Image.FromFile("C:\Users\coca_\Desktop\PROYECTO\TiroParabolico\ProyectoGDA_FisicaI\Resources\misil16+.png")
+        Dim abajo As Image = Image.FromFile("C:\Users\coca_\Desktop\PROYECTO\TiroParabolico\ProyectoGDA_FisicaI\Resources\misil16-.png")
+        Dim tank As Image = Image.FromFile("C:\Users\coca_\Desktop\PROYECTO\TiroParabolico\ProyectoGDA_FisicaI\Resources\tank24.png")
 
         Try
             'DEFINIMOS EL TRAMO A DIBUJAR EN FUNCION DE LAS DIMENSIONES DEL PICTUREBOX MENOS SUS MARGENES
@@ -266,6 +267,12 @@
     Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
         Dim f3 As New Form3
         f3.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        Dim f4 As New Form4
+        f4.Show()
         Me.Hide()
     End Sub
 End Class
